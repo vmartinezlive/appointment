@@ -4,11 +4,11 @@
 // };
 //
 // //this is the interface logic portion
-$(document).ready(function() {
-  $("form#name").submit(function(event){
-    var serviceNumber = parseInt($("#service").val());
-
-  event.preventDefault();
+// $(document).ready(function() {
+//   $("form#name").submit(function(event){
+//     var serviceNumber = parseInt($("#service").val());
+//
+//   event.preventDefault();
 //     var addNumber1 = parseInt($("#add1").val());
 //     var addNumber2 = parseInt($("#add2").val());
 //
