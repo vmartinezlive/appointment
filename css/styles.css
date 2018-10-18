@@ -3,6 +3,6 @@ h1 {
 }
 /* modal class set display to none by default. Make sure you add an event on it in JS or JQuery*/
 
-.modal {
+/* .modal {
   display: block;
-}
+} */
